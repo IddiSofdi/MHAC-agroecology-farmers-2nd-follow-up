@@ -4,6 +4,7 @@ import plotly.express as px
 import streamlit as st
 import subprocess
 import sys
+import os
 
 st.set_page_config(
     page_title="MHAC AGroecology 2nd Follow-up report",
@@ -108,6 +109,13 @@ if st.button("🔄 Refresh Kobo Data", type="primary"):
         "Connecting to KoboToolbox and updating dashboard data..."
     ):
 
+        env = os.environ.copy()
+
+        # Pass credentials securely from Streamlit Secrets
+        env["KOBO_SERVER"] = st.secrets["KOBO_SERVER"]
+        env["KOBO_TOKEN"] = st.secrets["KOBO_TOKEN"]
+        env["ASSET_UID"] = st.secrets["ASSET_UID"]
+
         result = subprocess.run(
             [
                 sys.executable,
@@ -115,7 +123,8 @@ if st.button("🔄 Refresh Kobo Data", type="primary"):
             ],
             cwd=BASE_DIR,
             capture_output=True,
-            text=True
+            text=True,
+            env=env
         )
 
     if result.returncode == 0:
