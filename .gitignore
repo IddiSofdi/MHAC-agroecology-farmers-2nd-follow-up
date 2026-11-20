@@ -1,0 +1,23 @@
+
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# All farmer and submission data
+data/
+
+# Generated reports
+reports/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+.DS_Store
+Thumbs.db
+.vscode/
