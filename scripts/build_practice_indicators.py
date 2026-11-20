@@ -6,7 +6,7 @@ from datetime import datetime
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
 CLEANED_DIR = PROJECT_ROOT / "data" / "cleaned"
-DATA_DIR = PROJECT_ROOT / "data"
+DATA_DIR = PROJECT_ROOT / "reference_data"
 
 QUESTIONS = {
     "Select_the_list_of_crops_plant": {

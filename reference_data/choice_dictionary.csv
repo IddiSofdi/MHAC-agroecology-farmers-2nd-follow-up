@@ -1,0 +1,151 @@
+list_name,choice_name,choice_label
+rh2mq41,allan,Sharon
+rh2mq41,iddi,Iddi
+rh2mq41,alvin,Alvin
+sf8yw14,vihiga_mhac_agroecology,Vihiga Mhac Agroecology
+sf8yw14,buyangu,Buyangu
+vp3ce96,janet_mfwogo,Janet Mfwogo
+vp3ce96,janepher_ambiyo,Janepher Ambiyo
+vp3ce96,henry_onde,Henry Onde
+vp3ce96,beatrice_khayesi,Beatrice Khayesi
+vp3ce96,mercy_andisi,Mercy Andisi
+vp3ce96,ainea_ageyo,Ainea Ageyo
+vp3ce96,eunice_lutome,Eunice Lutome
+vp3ce96,ruth_andisi,Ruth Andisi
+vp3ce96,ziporah_atieno,Ziporah Atieno
+vp3ce96,muraka_mary,Muraka Mary
+vp3ce96,janet_ndeda,Janet Ndeda
+vp3ce96,merab_kharushi,Merab Kharushi
+vp3ce96,rasoha_wirukha,Rasoha Wirukha
+vp3ce96,sirus_mukhuyi,Sirus Mukhuyi
+vp3ce96,deborah_sabayi,Deborah Sabayi
+vp3ce96,matilda_isanya,Martilda khavajira Isanya
+vp3ce96,elijah_burachi,Elijah Lilechi Burachi
+vp3ce96,floda_mutambi,Floda Mutambi
+vp3ce96,alvin_manera,Alvin Manera
+vp3ce96,miriam_makungu,Miriam Makungu
+vp3ce96,esther_khamete,Esther Khamete
+vp3ce96,joyce_siahi,Joyce Siahi
+vp3ce96,esther_khivyangu,Esther Khivyangu
+mj25s43,happy_group,Happy Group
+mj25s43,mlimani_chandugunyi,Mlimani chandugunyi
+mj25s43,umoja_chandugunyi,Umoja Chandugunyi
+mj25s43,ingidi_network,Ingidi Network
+mj25s43,chamuyaga,Chamuyaga
+mj25s43,madira_farmers,Madira Farmers
+mj25s43,mulika,Mulika
+mj25s43,suluhu,Suluhu
+mj25s43,joyous,Joyous
+mj25s43,vulala,Vulala
+mj25s43,maganda,Maganda
+mj25s43,upendo,Upendo
+mj25s43,kilimo_women,Kilimo Women
+mj25s43,mwanzu,Mwanzu
+mj25s43,urafiki,Urafiki
+mj25s43,jemange_b,Jemange B
+mj25s43,mwangaza_self_help,Mwangaza Self Help
+mj25s43,amani,Amani
+mj25s43,mugumu,Mugumu
+mj25s43,violet,Violet
+mj25s43,munzatsi,Munzatsi
+mj25s43,other,Other
+yw8lr28,hybrid_maize,Hybrid maize
+yw8lr28,local_maize,Local maize
+yw8lr28,sorghum,Sorghum
+yw8lr28,millet,Millet
+yw8lr28,local_sweet_potatoes,Local sweet potatoes
+yw8lr28,orange_fleshed_sweet_potatoes__ofsp,Orange fleshed sweet potatoes (OFSP)
+yw8lr28,cassava,Cassava
+yw8lr28,arrow_roots,Arrow roots
+yw8lr28,local_bananas,Local bananas
+yw8lr28,bambara_nuts,Bambara nuts
+yw8lr28,black_nightshade,Black nightshade
+yw8lr28,spider_plant,Spider plant
+yw8lr28,jute_mallow,Jute mallow
+yw8lr28,crotalaria,Crotalaria
+yw8lr28,amaranth,Amaranth
+yw8lr28,african_kales,African kales
+yw8lr28,pumpkin,Pumpkin
+yw8lr28,cowpeas,Cowpeas
+yw8lr28,kales,Kales
+yw8lr28,soya,Soya
+yw8lr28,spinach,Spinach
+yw8lr28,tissue_culture_bananas__tcb,Tissue Culture Bananas (TCB)
+yw8lr28,beans,Beans
+yw8lr28,other,Other
+yw8lr28,none,None
+hv0kt31,conservation_agriculture,Conservation agriculture
+hv0kt31,raised_beds,Raised beds
+hv0kt31,mandala_garden,Mandala garden
+hv0kt31,bag_gardening,Bag gardening
+hv0kt31,diagonal_offset,Diagonal offset
+hv0kt31,ridges,Ridges
+hv0kt31,mounts,Mounts
+hv0kt31,innovative_gardening,Innovative gardening
+hv0kt31,none,No planting technology practiced
+ke6oy89,mulching,Mulching
+ke6oy89,cover_cropping,Cover cropping
+ke6oy89,irrigation,Irrigation
+ke6oy89,terracing,Terracing
+ke6oy89,zai_pits_tumbukiza,Zai pits/Tumbukiza
+ke6oy89,none,Use of Animal Manure
+ke6oy89,pile_composting,Pile Composting
+ke6oy89,none_1,None
+vp6qr49,garden_compost,Garden compost
+vp6qr49,boma_compost,Boma compost
+vp6qr49,vermicompost,Vermicompost
+vp6qr49,bokashi,Bokashi
+vp6qr49,manure_teas,Manure teas
+vp6qr49,plant_teas,Plant teas
+vp6qr49,cow_urine,Cow urine
+vp6qr49,rabbit_urine,Rabbit urine
+vp6qr49,human_urine,Human urine
+vp6qr49,pit_composting,Pit composting
+vp6qr49,none,Heap composting
+vp6qr49,none_1,None
+kv0rn37,chemical_control,Chemical control
+kv0rn37,orgarnic_control,Orgarnic control
+kv0rn37,biological_control,Biological control
+kv0rn37,cultural_control,Cultural control
+ln4si39,ash_brew,Ash brew
+ln4si39,hotpepper,Hot pepper
+ln4si39,tephrosia,Tephrosia
+ln4si39,companion_crops,Companion crops
+ln4si39,ash,Ash
+ln4si39,none,Other
+ln4si39,none_1,None
+ck6fu99,crop_rotation,Crop Rotation
+ck6fu99,seed_saving,Seed Saving
+ck6fu99,use_of_organic_top_dressors,Use of Organic Top-dressors
+if0cj85,yes,Yes
+if0cj85,no,No
+ia7uo35,yes,"Always (throughout the year, whenever needed)"
+ia7uo35,no,Seasonally (during specific cropping seasons)
+ia7uo35,at_planting_time_only,At planting time only
+ia7uo35,occasionally__only_when_i_remember_or_ha,Occasionally (only when I remember or have time)
+ia7uo35,rarely__not_regular__done_once_in_a_long,"Rarely (not regular, done once in a long while)"
+ia7uo35,never,Never
+tl3hn15,yes,Yes
+tl3hn15,no,No
+rl6ey77,yes,Much higher
+rl6ey77,no,Higher
+rl6ey77,about_the_same,About the same
+rl6ey77,lower,Lower
+rl6ey77,not_sure,Not sure
+rv1ef38,yes,Yes
+rv1ef38,no,No
+tb1mq30,yes,Yes
+tb1mq30,no,No
+bs7xg55,1___worst_performing,1 – Worst performing
+bs7xg55,2___poor_performing,2 – Poor performing
+bs7xg55,3___average_performing,3 – Average performing
+bs7xg55,4___good_performing,4 – Good performing
+bs7xg55,5___best_performing,5 – Best performing
+ui7sa37,yes,Yes
+ui7sa37,no,No
+jd5qt79,yes,Yes
+jd5qt79,no,No
+hz5ng45,low__20,Low <20%
+hz5ng45,medium_upto50,Medium upto50%
+hz5ng45,severe_51___70,Severe 51 - 70%
+hz5ng45,very_severe_71_100,Very Severe 71-100%
